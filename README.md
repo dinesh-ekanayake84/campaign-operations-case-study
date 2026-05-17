@@ -119,7 +119,7 @@ This campaign required the simultaneous application of core supply chain and ope
 
 ## Context & Confidentiality
 
-This case study documents operational approaches and learnings from a live consumer brand activation campaign in Sri Lanka. Specific commercial details, client information, and proprietary operational data have been generalised to protect confidentiality. The operational scale, format, and challenges described are accurate.
+This case study draws from operational experience supporting a live consumer brand activation campaign in Sri Lanka. Specific client information, commercial details, timelines, and operational materials have been generalised to protect confidentiality while preserving the practical realities of campaign planning and execution. The campaign scale, operational structure, and challenges described reflect real-world experience.
 
 ---
 
