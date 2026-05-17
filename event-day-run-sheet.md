@@ -28,17 +28,17 @@
 | Time | Activity | Responsible | Notes |
 |---|---|---|---|
 | 05:30 | Operations coordinator on-site — final site walkthrough | D. Ekanayake | Confirm all zones accessible and clear |
-| 06:00 | Generator & power vendor arrives — power installation begins | Island Generators | Critical path — all other setup depends on power |
-| 06:30 | Fabrication & structures crew arrives — stage and stall framework setup begins | Pinnacle Fabrication | Largest setup window — must begin first |
-| 07:00 | Security team arrives — perimeter setup and briefing | Horizon Security | Entry gate positions confirmed |
-| 07:30 | Audio-visual vendor arrives — PA system and stage technical setup begins | Apex Audio Visual | Cannot begin until stage framework complete |
+| 06:00 | Generator & power vendor arrives — power installation begins | Generators | Critical path — all other setup depends on power |
+| 06:30 | Fabrication & structures crew arrives — stage and stall framework setup begins | Fabrication | Largest setup window — must begin first |
+| 07:00 | Security team arrives — perimeter setup and briefing | Security | Entry gate positions confirmed |
+| 07:30 | Audio-visual vendor arrives — PA system and stage technical setup begins | Audio Visual | Cannot begin until stage framework complete |
 | 08:00 | Signage & branding installation begins | Creative Displays | Entry gates, food stall branding, directional signage |
 | 08:30 | Product stock delivery arrives — intake inspection and storage allocation | Logistics Team | Cold-chain check on all product. FIFO applied. |
 | 09:00 | Food stall vendors arrive — individual stall setup and kitchen preparation begins | All Food Stall Vendors | Coordinator to confirm each stall against master list |
 | 09:30 | Product distributed to food stalls — quantities per stall confirmed against plan | Logistics Team | Each stall signs off on received quantity |
-| 10:00 | Photography & videography team arrives — pre-event setup shots and venue documentation | StarLight Photography | Brief on key moments and shot list for the day |
-| 10:30 | Promotional staff arrive — team briefing session | Elite Staffing Solutions | Product knowledge, guest handling, entry gate procedure |
-| 11:00 | Audio-visual sound check — stage and PA system tested across full venue | Apex Audio Visual | All zones must be covered — flag dead spots immediately |
+| 10:00 | Photography & videography team arrives — pre-event setup shots and venue documentation | X Photography | Brief on key moments and shot list for the day |
+| 10:30 | Promotional staff arrive — team briefing session | Staffing Solutions | Product knowledge, guest handling, entry gate procedure |
+| 11:00 | Audio-visual sound check — stage and PA system tested across full venue | Audio Visual | All zones must be covered — flag dead spots immediately |
 | 11:30 | Entry gate product stock loaded and confirmed — entry team briefed | Entry Gate Team | Stock count confirmed. Replenishment plan activated. |
 | 12:00 | All food stalls operational check — gas, power, water, product, and branding confirmed | D. Ekanayake | Full walkthrough of all 20+ stalls. Sign-off per stall. |
 | 12:30 | Games and activity zones confirmed ready | Activities Team | Equipment tested and positioned |
@@ -74,7 +74,7 @@
 | 18:00 | Evening operations check — lighting, power, product levels, crowd flow | D. Ekanayake | Generator status confirmed. All zones operational. |
 | 18:30 | Third product replenishment cycle | Logistics Team | Monitor remaining stock levels against projected demand |
 | 19:00 | Food stall mid-event stock assessment — flag any stalls running low | Logistics Team | Redistribute stock across stalls if required |
-| 19:30 | Security check — perimeter and crowd behaviour review | Horizon Security | Report to operations coordinator |
+| 19:30 | Security check — perimeter and crowd behaviour review | Security | Report to operations coordinator |
 | 20:00 | Full operations review — stock levels, vendor performance, crowd status | D. Ekanayake | Issue log updated. Final replenishment plan confirmed. |
 
 ---
@@ -100,10 +100,10 @@
 |---|---|---|---|
 | 23:45 | Food stall pack-down begins — equipment, product, and waste | All Food Stall Vendors | Each stall responsible for own clearance |
 | 23:45 | Post-event product stock reconciliation begins | Logistics Team | Count remaining stock at all points. Record against dispatch quantities. |
-| 00:00 | Stage and AV equipment dismantling begins | Apex Audio Visual | |
+| 00:00 | Stage and AV equipment dismantling begins | Audio Visual | |
 | 00:15 | Signage and branding removal begins | Creative Displays | |
 | 00:30 | Structures and fabrication dismantling begins | Pinnacle Fabrication | |
-| 00:45 | Generator and power equipment removal | Island Generators | Coordinate with AV — power maintained until AV complete |
+| 00:45 | Generator and power equipment removal | Generators | Coordinate with AV — power maintained until AV complete |
 | 01:00 | Site waste management and cleaning sweep | Facility Team | |
 | 01:30 | Final site inspection — all vendors cleared, no equipment left | D. Ekanayake | Damage noted and photographed if applicable |
 | 01:45 | Vendor sign-off — each vendor confirms pack-down complete | D. Ekanayake | Vendor pack-down checklist signed |
